@@ -1,0 +1,25 @@
+[
+  {
+    "content": "Bạn chưa chọn người làm ưa thích nào."
+  },
+
+  {
+    "title": "Người làm ưa thích là gì?",
+    "content": "Người làm ưa thích là danh sách những người đã từng làm công việc của bạn và được bạn đánh giá 5 sao."
+  },
+
+  {
+    "title": "Tại sao tôi cần người làm ưa thích ?",
+    "content": "Chỉ khi bạn đặt gói dịch vụ dọn dẹp hàng tháng. Chúng tôi cần bạn phải có ít nhất 3 người làm ưa thích, để chúng tôi có thể sắp xếp 1 trong số họ làm việc cho gói dịch vụ của bạn. Chúng tôi mong muốn khách hàng hài lòng với chất lượng dịch vụ trước khi sử dụng gói cố định hàng tháng"
+  },
+
+  {
+    "title": "Làm sao để có người làm ưa thích ?",
+    "content": "Đấu tiên, bạn có thể đăng một vài công việc. Nếu bạn đánh giá bất kỳ người làm nào 5 sao, thì hệ thống tự thêm người đó vào danh sách ưa thích của bạn. Hoạc bạn có thể tự thêm người đó sau khi công việc hoàn thành."
+  },
+
+  {
+    "title": "Làm sao lấy một người ra khỏi danh sách ưa thích ?",
+    "content": "Khi bạn đã có người làm ưa thích, tất cả sẽ xuất hiện ở đây, Bạn có thể thêm hoặc xóa một người làm ưa thích lúc nào bạn muốn."
+  }
+]

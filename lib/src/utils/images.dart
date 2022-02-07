@@ -1,0 +1,10 @@
+const String imageFacebook = "assets/images/facebook.png";
+const String imageGoogle = "assets/images/google.png";
+const String iconLogin = "assets/images/icon_login.png";
+const String imageBackGroudSplash = "assets/images/image_backgroud_splash.jpg";
+const String iconLogo = "assets/images/icon_logo.png";
+const String iconQrCode = "assets/images/icon_qr_code.png";
+const String imageCooking = "assets/images/cooking1.png";
+const String imageIron = "assets/images/iron.png";
+const String imageMop = "assets/images/mop.png";
+const String imageAvatar = "assets/images/avatar.jpg";

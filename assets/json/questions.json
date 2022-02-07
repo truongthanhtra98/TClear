@@ -1,0 +1,186 @@
+{
+  "list" : {
+    "title": "Khái quát ứng dụng TClear",
+    "questions": [
+      {
+        "answer": "TClear là Ứng dụng cho phép Khách hàng đăng lịch dọn dẹp, vệ sinh máy lạnh, giặt ủi,.. trực tiếp trên ứng dụng với thao tác đơn giản. Người giúp việc cũng sẽ chủ động nhận việc và liên hệ với bạn trên ứng dụng. Bạn chỉ mất dưới 60 giây để hoàn thành các thao tác đăng lịch trên ứng dụng. Đặc biệt, TClear không phải là trung tâm môi giới người giúp việc, khách hàng phải đặt lịch dọn dẹp trực tiếp trên Ứng dụng TClear",
+        "question": "Ứng dụng TClear là gì"
+      },
+      {
+        "answer": "Ứng dụng hiện đang được triển khai tại TPHCM, Hà Nội, Đà Nẵng và Bình Dương. Trong tương lai, TClear sẽ mở rộng và phát triển đến những thành phố khác trong thời gian sớm nhất.",
+        "question": "Ứng dụng đang triển khai ở đâu?"
+      },
+      {
+        "answer": "CTV giúp việc nhà thuộc TClear có kinh nghiệm dọn dẹp nhà ít nhất 01 năm và có đầy đủ giấy tờ, hồ sơ. Lao động sẽ được phỏng vấn, kiểm tra kiến thức và thử việc trước khi trở thành cộng tác viên chính thức. Bạn hãy yên tâm về chất lượng dịch vụ.",
+        "question": "Mình muốn sử dụng thử dịch vụ của TClear nhưng phân vân về chất lượng dịch vụ có tốt hay không?"
+      },
+      {
+        "answer": "Các chị CTV giúp việc của TClear sẽ chủ động nhận việc trong vòng một tiếng kể từ khi bạn đăng việc hoàn tất. Đối với các ngày Lễ hoặc Giờ cao điểm, vì nhu cầu dọn dẹp sẽ tăng, bạn nên đăng việc trước một ngày để đảm bảo luôn có người dọn dẹp.",
+        "question": "Khi đăng công việc lên ứng dụng thì phải mất bao lâu mới có người nhận việc?"
+      },
+      {
+        "answer": "Khi CTV giúp việc nhà nhận việc của bạn, bạn có thể xem thông qua đánh giá trung bình sao và từ những đánh giá của những khách hàng trước trên ứng dụng.",
+        "question": "Làm sao tôi biết được người giúp việc này có làm tốt hay không?"
+      },
+      {
+        "answer": "TClear có chụp hình cho người nhận việc khi đăng ký sử dụng ứng dụng. Hình của người giúp việc sẽ được hiển thị trên ứng dụng. Trên ứng dụng TClear sẽ hiển thị hình ảnh của CTV giúp việc nhận việc bạn đã đăng. Bạn có thể quét mã QR code của CTV để xác định, nhận dạng CTV đến làm việc với tính năng quét mã QR code trê ứng dụng TClear.",
+        "question": "Làm sao nhận dạng người giúp việc?"
+      },
+      {
+        "answer": "Bạn bè của bạn sử dụng ứng dụng TClear và nhập mã giới thiệu của bạn khi đăng ký tài khoản. Sau khi công việc đầu tiên hoàn tất, bạn và người bạn của mình sẽ được nhận 50.000vnd vào tài khoản TPay, số tiền tặng sẽ áp dụng cho lần đăng việc tiếp theo.",
+        "question": "Nếu giới thiệu bạn bè sử dụng ứng dụng tôi có được khuyến mại gì không?"
+      },
+      {
+        "answer": "TClear hoạt động xuyên suốt tất cả các ngày trong tuaanf và lễ Tết nên bạn hoàn toàn có thể đặt dịch vụ vào những ngày này. Để đảm bảo luôn có người nhận công việc của bạn vào cuối tuần, lê Tết, TClear khuyến khích bạn nên đặt lịch sớm từ 1 - 2 ngày.",
+        "question": "Vào ngày Lễ Tết, người giúp việc có đến dọn dẹp nhà không?"
+      },
+      {
+        "answer": "Khi đăng công việc trên ứng dụng: \n- Chọn loại hình căn hộ/số nhà để người giúp việc thuận tiện hơn trong việc tìm nhà.\n Chọn 'Mang theo dụng cụ' tại mục 'Thêm dịch vụ'\n- Điền mô tả chi tiết công việc dọn dẹp\n\n- Khi đến giờ làm việc\n- Bật chuông và chú ý đến điện thoại, vì người giúp việc có thể gọi bất cứ lúc nào.\n- Xác nhận người giúp việc giống ảnh trên ứng dụng.\n- Hướng dân sơ bộ khu vực nhà để thuận tiện cho người giúp việc.\n\nĐánh giá chất lượng\nBạn hãy đánh giá chất lượng người giúp việc. Điều này sẽ giúp TClear có thể đem đến cho bạn trải nghiệm tốt nhất dịch vụ trên ứng dụng.",
+        "question": "Làm thế nào để sử dụng dịch vụ trên Ứng dụng một cách hoàn hảo?"
+      },
+      {
+        "answer ": "Với tài khoản TPay, bạn có thể dễ dàng thanh toán cho các dịch vụ của TClear mà không cần phải dùng tiền mặt. Tài khoản TPay có thể được nạp thêm thông qua thẻ Visa, Master hoặc các thẻ ATM của các ngân hàng có tính năng thanh toán bằng Internet Banking và MoMo.\nBạn có thể sử dụng các loại thẻ tín dụng Visa, Master (bao gồm Credit và Debit) để thanh toán các dịch vụ của TClear. Phí tích hợp thẻ là 5.000VND và chỉ cần nhập thông tin thẻ của mình một lần duy nhất trong lần sử dụng đầu tiền. Số tiền nạp tối thiểu là 200.000 VND",
+        "question": "TPay là gì?"
+      }
+    ]
+  },
+
+  "list": {
+    "title": "THAO TÁC TRÊN ỨNG DỤNG",
+    "questions": [
+      {
+        "question": "Giờ cao điểm là gì và khung giờ cao điểm là khi nào?",
+        "answer": "Giờ cao điểm là lúc nhu cầu dọn dẹp của khách hàng tăng cao. Khung giờ cao điểm từ 6 đến 8 giờ sáng và từ 17 giờ trở đi."
+      },
+      {
+        "question": "Trên ứng dụng để mặc định 2h khoảng 55m2, 2 phòng có nghĩa là gì?",
+        "answer": "Đây là thời gian mà CTV sẽ dọn dẹp tại nhà bạn với diện tích và số phòng ước lượng.\nBạn có thể tuỳ chỉnh số giờ làm việc để phù hợp với lượng công việc mà bạn mô tả khi đăng việc dọn dẹp."
+      },
+      {
+        "question": "Tôi có thể đặt lịch Vệ sinh máy lạnh vào buổi tối không?",
+        "answer": "Bạn có thể đặt lịch Vệ sinh máy lạnh vào buổi tối. Tuy nhiên, TClear khuyên bạn nên đặt vào buổi sáng, trưa hoặc chiều để luôn có người nhận việc."
+      },
+      {
+        "question": "Tôi có thể đặt lịch Giặt ủi vào buổi tối không?",
+        "answer": "Hiện tại TClear đang cung cấp dịch vụ Giặt ủi trong khung giờ từ 9:00 – 22:00 hằng ngày. Do đó bạn hoàn toàn có thể đặt lịch giao nhận đồ trước 22:00."
+      },
+      {
+        "question": " Tôi có thể đặt lịch dọn dẹp bắt đầu lúc 23:00 không?",
+        "answer": "Hiện tại, TClear không hỗ trợ công việc từ sau 23:00 đến 05:00 hàng ngày. Bạn vui lòng chọn thời điểm đăng việc ngoài khung giờ trên."
+      },
+      {
+        "question": "Người nhận việc liên hệ với tôi bằng cách nào?",
+        "answer": "Sau khi CTV nhận công việc, CTV giúp việc sẽ chủ động liên hệ với bạn trực tiếp trên ứng dụng TClear ở phần “Chat”. Hãy lưu ý bật chuông điện thoại, cho phép nhận thông báo từ ứng dụng để tiện lợi trong việc liên lạc."
+      },
+      {
+        "question": "Tôi muốn có nhiều cô giúp việc đến dọn dẹp toàn bộ nhà thì phải làm như thế nào?",
+        "answer": "Khi có nhu cầu dọn dẹp toàn bộ ngôi nhà với số lượng nhiều người giúp việc, bạn có thể chọn sử dụng dịch vụ “Tổng vệ sinh”” trên ứng dụng."
+      },
+      {
+        "question": "Tôi muốn người giúp việc đến nấu ăn cho gia đình mà không cần dọn dẹp có được không?",
+        "answer": "Bạn có thể đặt dịch vụ Nấu ăn gia đình trên ứng dụng để đáp ứng nhu cầu nấu ăn và không cần dọn dẹp của bạn."
+      },
+      {
+        "question": "Tôi có thể đặt nhiều dịch vụ cùng một lúc được không?",
+        "answer": "Bạn có thể đặt nhiều dịch vụ cùng một lúc, mỗi dịch vụ sẽ được tính thành từng công việc bạn đăng trên ứng dụng. Các CTV và đối tác sẽ nhận việc và liên hệ với bạn như bình thường."
+      },
+      {
+        "question": "Ngoài dọn dẹp nhà ra nếu tôi cần người nấu ăn, ủi đồ thì TClear có thể đáp ứng được không?",
+        "answer": "Khi bạn đăng việc dọn dẹp trên ứng dụng, bạn có thể chọn thêm các dịch vụ phụ khác như: Nấu ăn, Ủi đồ và Đem theo dụng cụ với tính năng “Thêm dịch vụ” và mô tả chi tiết công việc."
+      },
+      {
+        "question": " Tôi có thể đặt lịch vệ sinh nhiều loại máy lạnh trong cùng một công việc vệ sinh máy lạnh không, thao tác như thế nào?",
+        "answer": "Bạn có thể đặt vệ sinh nhiều loại máy lạnh khác nhau, tối đa là 10 máy trong cùng một lần đặt lịch vệ sinh máy lạnh trên ứng dụng với thao tác sau:\n\nĐiền thông tin loại máy lạnh, số lượng,…, chọn “Thêm” và tiếp tục chọn “thêm mới” nếu có nhu cầu vệ sinh, bơm ga loại máy lạnh khác."
+      },
+      {
+        "question": "Tôi có thể huỷ việc sau khi đăng việc không?",
+        "answer": "Bạn có thể huỷ việc sau khi đăng việc hoàn tất tại biểu tượng tuỳ chọn. Tuy nhiên, bạn nên hạn chế số lần huỷ việc, tối đa 7 lần trong 7 ngày. Vì điều này sẽ làm giảm mức độ uy tín của bạn trên ứng dụng TClear."
+      }
+    ]
+  },
+
+  "list": {
+    "title": "HÌNH THỨC THANH TOÁN",
+    "questions": [
+      {
+        "question": "Hình thức thanh toán như thế nào?",
+        "answer": "Bạn có thể thanh toán trực tiếp bằng tiền mặt cho người giúp việc, thông qua thẻ tín dụng, ATM hoặc tài khoản bPay."
+      },
+      {
+        "question": "Tôi có nhận được biên nhận khi đặt lịch dọn dẹp không?",
+        "answer": "Sau khi hoàn tất công việc, biên nhận thanh toán dịch vụ sẽ được gửi đến email mà bạn đăng ký nhận biên nhận ở bước “Liên hệ và thanh toán” khi đăng lịch dọn dẹp."
+      },
+      {
+        "question": "TClear có xuất hoá đơn giá trị gia tăng không?",
+        "answer": "TClear là công ty cung cấp Ứng dụng Giúp việc nhà theo giờ và không trực tiếp cung cấp dịch vụ, vì thế TClear không thể cung cấp hoá đơn giá trị gia tăng cho bạn được.\nTuy nhiên, bạn có thể nhận biên nhận thanh toán dịch vụ, thông qua email đã đăng ký nhận biên nhận ở bước “Liên hệ và thanh toán” khi đặt lịch dọn dẹp."
+      }
+    ]
+  },
+
+  "list": {
+    "title": "DỌN DẸP NHÀ THEO GÓI",
+    "questions": [
+      {
+        "question": "Có cách đặt lịch dọn dẹp nhà cố định không?",
+        "answer": "Bạn có thể sử dụng tính năng “Lặp lại hàng tuần” trên ứng dụng TClear và lựa chọn ngày dọn dẹp cố định. Hệ thống sẽ tự động đăng công việc theo lịch bạn chọn.\n\nĐể đảm bảo sự tiện lợi và chất lượng cho khách hàng, TClear có cung cấp gói dọn dẹp nhà theo gói, theo loại từ 1 đến 3 tháng. Công việc dọn dẹp nhà theo lịch được đăng ký sẽ được hệ thống tự động đăng lên trước giờ làm ít nhất 2 ngày."
+      },
+      {
+        "question": "Tôi đang sử dụng dọn dẹp nhà theo gói, tôi muốn thay đổi người giúp việc khác có được không?",
+        "answer": "Trong quá trình sử dụng dọn dẹp nhà theo gói, nếu bạn muốn thay đổi người giúp việc, vui lòng gọi đến tổng đài 1900 636 736 để được hỗ trợ thay đổi."
+      },
+      {
+        "question": "Tôi đang sử dụng dọn dẹp nhà theo gói, tôi có việc bận đột xuất và đi vắng, tôi phải làm như thế nào?",
+        "answer": "Trong trường hợp bạn vắng mặt ngắn ngày, bạn có thể chọn huỷ công việc đã được đăng trên ứng dụng.\n\nTrong trường hợp bạn vắng mặt trong thời gian dài, vui lòng gọi đến tổng đài 1900 636 736 để thông báo dừng gói dịch vụ và hoàn tiền cho bạn. TClear hỗ trợ 1 trong 2 hình thức hoàn tiền như sau:\n\nHoàn tiền qua bPay: TClear hoàn lại tổng số tiền của những buổi chưa sử dụng.\nHoàn tiền qua chuyển khoản ngân hàng: TClear hoàn lại tổng số tiền của những buổi chưa sử dụng trừ đi 20% giá trị của gói ban đầu.\n\nKhi bạn có nhu cầu tiếp tục sử dụng, bạn có thể đặt lại dịch vụ dọn dẹp nhà theo gói trực tiếp trên ứng dụng như bình thường"
+      },
+      {
+        "question": "Tôi có thể huỷ dọn dẹp nhà theo gói không?",
+        "answer": "Bạn có thể huỷ dọn dẹp nhà theo gói. Về quy định huỷ gói đã thanh toán và hoàn tiền. TClear hỗ trợ 1 trong 2 hình thức hoàn tiền như sau:\n\n1. Hoàn tiền qua bPay: TClear hoàn lại tổng số tiền của những buổi chưa sử dụng\n2. Hoàn tiền qua chuyển khoản ngân hàng: TClear hoàn lại tổng số tiền của những buổi chưa sử dụng trừ đi 20% giá trị của gói ban đầu."
+      }
+    ]
+  },
+
+  "list": {
+    "title": "BÁO CÁO SỰ CỐ",
+    "questions": [
+      {
+        "question": "Tôi phải làm như thế nào khi Người giúp việc huỷ công việc?",
+        "answer": "TClear rất tiếc nếu Người giúp việc huỷ nhận công việc từ bạn. Khi xảy ra việc này, công việc dọn dẹp của bạn sẽ được tự động đăng lại trên hệ thống, các Cộng tác viên giúp việc khác sẽ chủ động nhận việc."
+      },
+      {
+        "question": "Tại sao không có ai nhận việc mà tôi đã đăng?",
+        "answer": "Trong trường hợp này, có thể do công việc được đăng vào lúc thời điểm nhu cầu của người dùng tăng cao. Bạn vui lòng đợi thêm giây lát, sẽ có Cộng tác viên nhận việc của bạn.\n\nNếu đã đến gần thời gian bắt đầu công việc nhưng chưa có người nhận việc, bạn có thể thay đổi ngày, giờ của công việc. Hệ thống sẽ tự động cập nhật và các Cộng tác viên sẽ nhận việc."
+      },
+      {
+        "question": "Tôi phải làm như thế nào khi người giúp việc đến không giống trên ứng dụng?",
+        "answer": "Khi xảy ra trường hợp trên, vui lòng không để người đó vào nhà, đóng, khoá cửa và gọi đến tổng đài 1900 636 736 để được hỗ trợ ngay."
+      },
+      {
+        "question": "Tại sao tôi không sử dụng được mã khuyến mại?",
+        "answer": "Có thể khuyến mại hiện tại chỉ áp dụng cho các Khách hàng nhận được thông báo khuyến mại, mã khuyến mại hết hạn, khuyến mại không áp dụng tại thành phố của bạn số lượng khuyến mại có hạn, nên bạn không thể sử dụng mã khuyến mại.\n\nBạn có thể gọi đến tổng đài 1900 636 736 để được hỗ trợ ngay."
+      },
+      {
+        "question": "Nếu trong quá trình làm việc có sự cố hư hao hay mất cắp tài sản thì TClear sẽ xử lý như thế nào?",
+        "answer": "Nếu trong quá trình sử dụng dịch vụ, xảy ra sự cố đáng tiếc như hư hao tài sản hoặc trộm cắp. Bạn vui lòng thông báo, phản hồi khiếu nại, tranh chấp trên đến bộ phận hỗ trợ/chăm sóc khách hàng thông qua email support@TClear.com để cung cấp tất cả các thông tin, bằng chứng cụ thể để thuận tiện trong quá trình giải quyết vấn đề. (Ghi chú: Nội dung email trình bày cụ thể sự việc, thời gian, đính kèm các bằng chứng liên quan như hình ảnh, video xuất từ camera an ninh (nếu có))\n\nTrong vòng 02 ngày làm việc, kể từ khi nhận được khiếu nại (không tính các ngày cuối tuần và các ngày lễ), TClear sẽ kiểm tra và xác nhận và phản hồi đến các bên có liên quan và có quyền yêu cầu cung cấp thông tin. Vui lòng nhận tất cả các cuộc gọi đến từ TClear. Trong quá trình giải quyết, yêu cầu các bên không được công khai bất cứ thông tin về khiếu nại hoặc liên quan đến vấn đề khiếu nại trên các trang xã hội và các phương tiện truyền thông.\n\nĐối với trường hợp mâu thuẫn, khiếu nại mang tính chất nghiêm trọng, không thể giải quyết, người khiếu nại (Khách hàng, Người giúp việc, Đối tác) nộp đơn đến các cơ quan pháp luật có thẩm quyền can thiệp, TClear sẽ phối hợp với cơ quan nhà nước trong trường hợp cần cung cấp các giấy tờ, thông tin của các bên có liên quan.\n\nĐối với các trường hợp phát sinh mâu thuẫn liên quan đến việc vi phạm Quy tắc ứng xử Người giúp việc, Đối tác đã cam kết TClear sẽ áp dụng các biện pháp xử lý tương ứng."
+      }
+    ]
+  },
+
+  "list": {
+    "title": "TÀI KHOẢN",
+    "questions": [
+      {
+        "question": "Làm thế nào để thay đổi tên, email và số điện thoại của tôi?",
+        "answer": "Bạn có thể thay đổi thông tin về Tên hiển thị, Email và Số điện thoại tại mục “Tài khoản” trực tiếp trên ứng dụng. Hệ thống sẽ gửi thông báo vào hộp thư email của bạn về việc cập nhật, thay đổi này."
+      },
+      {
+        "question": "Làm thế nào để thay đổi ngôn ngữ trên ứng dụng?",
+        "answer": "Bạn có thể thay đổi ngôn ngữ trong ứng dụng tại mục “Tài khoản” và thay đổi ngôn ngữ tuỳ chọn trong “Cài đặt”. Hiện tại, Ứng dụng hỗ trợ ngôn ngữ Tiếng Việt, Tiếng Anh và Tiếng Hàn."
+      },
+      {
+        "question": "Ai đó đang sử dụng tài khoản của tôi?",
+        "answer": "Để bảo mật thông tin tài khoản của bạn trên Ứng dụng TClear, tránh các trường hợp sử dụng tài khoản vào mục đích xấu, xin vui lòng không chia sẻ thông tin mật khẩu cho bất kỳ ai khác. Nếu có bất cứ nghi ngờ tài khoản đang bị người khác sử dụng, xin vui lòng chọn “Đổi mật khẩu” trong “Tài khoản” để đảm báo tính bảo mật của tài khoản."
+      }
+    ]
+  }
+
+}
